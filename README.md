@@ -13,6 +13,6 @@ Here I have Performed Logistic Regression on Heart Data and got 85% accuracy
 
 
 # Streamlit App:
-'''
+```
 streamlit run main.py
-'''
+```
